@@ -1,0 +1,1 @@
+fastapi>=0.110,<1.0\nuvicorn>=0.27\npytest>=8.0\nhttpx>=0.27\n
