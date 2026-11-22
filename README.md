@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proactive Insights Full-Coverage Demo
 
 Synthetic FastAPI test fixture for Blitzy Proactive Insights.
@@ -23,3 +24,6 @@ Run tests with `pytest -q`.
 Connect the repository root, select `main`, and initially leave the environment unset.
 
 This is a synthetic QA fixture, not production software. It uses in-memory storage and demo credentials. Do not deploy it or use real credentials.
+=======
+# proactive_insights_full_coverage_demo
+>>>>>>> 2eee6fee99de85ca7200483f3ee6b9a2349215af
