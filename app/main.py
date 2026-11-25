@@ -4,6 +4,7 @@ from pydantic import BaseModel, Field
 from app.store import store
 from app.services import create_task, complete_task
 
+# Serves the task API: create, list, complete, delete behind bearer-token auth.
 app = FastAPI(title="Proactive Insights Full-Coverage Demo")
 TOKENS = {"demo-alice": "alice", "demo-bob": "bob"}
 
